@@ -42,5 +42,5 @@ Issues: Failed login attempts, VPN access, transaction spike
 Action: Investigate / MFA / Possible Lock
 ```
 
-## Project Purpose
+## Project Gaol
 This project simulates how a Security Operations Center (SOC) identifies potentially malicious account activity using behavioral analysis and automated detection logic.
