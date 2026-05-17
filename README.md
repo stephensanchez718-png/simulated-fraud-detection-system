@@ -20,6 +20,10 @@ Python-based SOC fraud detection simulation that analyzes suspicious banking beh
 - Security event analysis
 
 ## Example Alert Output
+## Detection Screenshot
+
+![SOC Alert Screenshot](https://github.com/stephensanchez718-png/simulated-fraud-detection-system/assets/)
+<img width="1496" height="922" alt="image" src="https://github.com/user-attachments/assets/2b0dbcfc-ca32-4f1c-a023-7d080134dde6" />
 
 ```text
 [SOC ALERT]
